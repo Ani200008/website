@@ -1,0 +1,30 @@
+
+h1 {
+    text-align: center;
+font-weight: 200;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#aa {
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+#ad {
+    border-color: 1px solid black;
+   
+    padding: top 2;%;
+   
+    padding-right:5%;
+
+}
+h3{
+   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p.ka {
+  
+    width: 30px; position: relative;
+    border-style: groove;
+   background-color: tomato;
+}
